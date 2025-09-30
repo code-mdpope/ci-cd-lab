@@ -1,0 +1,5 @@
+1.  CI, or Continuous Integration, means automatically building and testing code whenever changes are made, so the project stays stable.
+CD, or Continuous Delivery/Deployment, takes it further by automating the release, making it faster and easier to deliver updates to production with less manual work.
+2.Automation is important because it saves time, reduces human errors, and ensures tasks like testing and building are done consistently. It allows developers to focus more on writing code instead of repeating manual work.
+3.CI/CD pipelines improve teamwork by giving everyone quick feedback on their changes, making it easier to spot problems early. They also improve software quality since every update is tested automatically, keeping the project stable and reliable.
+4.One challenge I faced was making sure the YAML file was written correctly because even small mistakes in indentation or spelling caused errors. Another difficulty was setting up the test commands properly so the pipeline could detect and run my test files.
