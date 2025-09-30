@@ -1,3 +1,5 @@
+Mark Mendoza, Joshua Mark Marpuri
+
 1.  CI, or Continuous Integration, means automatically building and testing code whenever changes are made, so the project stays stable.
 CD, or Continuous Delivery/Deployment, takes it further by automating the release, making it faster and easier to deliver updates to production with less manual work.
 2.Automation is important because it saves time, reduces human errors, and ensures tasks like testing and building are done consistently. It allows developers to focus more on writing code instead of repeating manual work.
